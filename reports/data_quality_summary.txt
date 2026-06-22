@@ -1,0 +1,11 @@
+Rows, Columns: (3105, 2)
+
+Data Types:
+date    str
+nav     str
+dtype: object
+
+Missing Values:
+date    0
+nav     0
+dtype: int64
